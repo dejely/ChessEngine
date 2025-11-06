@@ -1,8 +1,8 @@
 package chess.pieces;
 
-public class King {
+public class Pawns {
 
-	public King() {
+	public Pawns() {
 		// TODO Auto-generated constructor stub
 	}
 
