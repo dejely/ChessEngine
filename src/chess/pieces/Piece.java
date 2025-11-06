@@ -1,8 +1,8 @@
 package chess.pieces;
 
-public class King {
+public abstract class Piece {
 
-	public King() {
+	public Piece() {
 		// TODO Auto-generated constructor stub
 	}
 
